@@ -8,6 +8,9 @@ The project provides an overview of the CFA Institute
 ## Certificate
 ![image](QuantitativeMethods.jpg)
 
+## Launchpad
+![image](image_Launchpad.png)
+
 ## Ethics
 ![image](Ethics.jpg)
 
