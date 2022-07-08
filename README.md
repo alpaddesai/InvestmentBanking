@@ -15,4 +15,4 @@ The project provides a high level overview of the academic knowledge associated 
 ## Ethics
 ![image](Ethics.jpg)
 
-Additional details found in https://github.com/alpaddesai/FinancialAccountingIdea ,https://github.com/alpaddesai/BusinessDevelopmentIdea, https://github.com/alpaddesai/InternationalManagerialFinance, https://github.com/alpaddesai/PredictionModelWithBloombergIdea, https://github.com/alpaddesai/FinancialMarkets and https://github.com/alpaddesai/PortfolioReturnGUIIdea 
+Additional details found in https://github.com/alpaddesai/FinancialAccountingIdea ,https://github.com/alpaddesai/BusinessDevelopmentIdea, https://github.com/alpaddesai/InternationalManagerialFinance, https://github.com/alpaddesai/PredictionModelWithBloombergIdea, https://github.com/alpaddesai/FinancialMarkets , https://github.com/alpaddesai/OptimalCapitalStructure and https://github.com/alpaddesai/PortfolioReturnGUIIdea 
