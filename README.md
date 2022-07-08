@@ -4,6 +4,7 @@ The project provides a high level overview of the academic knowledge associated 
 
 ## CFA
 ![image](CFA.jpg)
+#### https://www.cfainstitute.org/en/ethics-standards/ethics
 
 ## Certificate
 ![image](QuantitativeMethods.jpg)
