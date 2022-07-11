@@ -1,6 +1,6 @@
 # CFA
 
-The project provides a high level overview of the academic knowledge associated with a CFA
+The project provides a high level overview of the academic knowledge associated with a CFA.
 
 ## CFA
 ![image](CFA.jpg)
