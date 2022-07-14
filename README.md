@@ -4,8 +4,8 @@ The project provides a high level overview of the academic knowledge associated 
 
 ## CFA
 ![image](CFA.jpg)
-###### https://www.cfainstitute.org/en/ethics-standards/ethics  and https://www.rolex.com/
-###### not a bad idea...
+###### https://www.rolex.com/
+
 
 ## Certificate
 ![image](QuantitativeMethods.jpg)
