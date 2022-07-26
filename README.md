@@ -13,10 +13,10 @@ The project provides a high level overview of the academic knowledge associated 
 ## Launchpad
 ![image](image_Launchpad.png)
 
-## CFA Level I
+## CFA Level I, MBA exam
 ![image](CFASlide1.JPG)
 
-## CFA Level II
+## CFA Level II, MBA exam
 ![image](CFASlide2.JPG)
 
 ## Ethics
