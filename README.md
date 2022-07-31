@@ -1,4 +1,4 @@
-# CFA
+# Chartered Financial Analyst
 
 The project provides a high level overview of the academic knowledge associated with a CFA
 
