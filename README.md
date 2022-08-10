@@ -24,6 +24,7 @@ The project provides a high level overview of the academic knowledge associated 
 ## Tier II admission letter 
 ![image](admissionletter.jpg)
 
+## Globally acknowledged graduate admission test
 ![image](GRE_Exam.jpg)
 
 Additional details found in https://github.com/alpaddesai/FinancialAccountingIdea ,https://github.com/alpaddesai/BusinessDevelopmentIdea, https://github.com/alpaddesai/InternationalManagerialFinance, https://github.com/alpaddesai/PredictionModelWithBloombergIdea, https://github.com/alpaddesai/FinancialMarkets , https://github.com/alpaddesai/OptimalCapitalStructure , https://github.com/alpaddesai/FinancialAdvice , https://github.com/alpaddesai/ManagerialAccounting , https://github.com/alpaddesai/CostManagement , https://github.com/alpaddesai/MergersDocumentIdea , https://github.com/alpaddesai/InvestmentPortfolio .  https://github.com/alpaddesai/PortfolioReturnGUIIdea , https://github.com/alpaddesai/PowerandInfluentialSkills, https://github.com/alpaddesai/TestScores, https://github.com/alpaddesai/EthicalProfessionalStandards and https://github.com/alpaddesai/BusinessNegotiations.
