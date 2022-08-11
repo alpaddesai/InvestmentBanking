@@ -21,7 +21,7 @@ The project provides a high level overview of the academic knowledge associated 
 ## Ethics
 ![image](Ethics.jpg)
 
-## Tier II admission letter 
+## Tier II business school admission letter 
 ![image](admissionletter.jpg)
 
 ## Globally acknowledged graduate admission test
