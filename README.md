@@ -15,9 +15,6 @@ The project provides a high level overview of the academic knowledge associated 
 ## CFA Level I exam
 ![image](CFASlide1.JPG)
 
-## CFA Level II, Additional readings
-![image](CFASlide2.JPG)
-
 ## Ethics
 ![image](Ethics.jpg)
 
