@@ -1,6 +1,7 @@
 # Chartered Financial Analyst
 
-The project provides a high level overview of the academic knowledge associated with a CFA.
+The project provides a high level overview of the academic knowledge associated with a CFA. 
+All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom.
 
 ## CFA
 ![image](CFA.jpg)
