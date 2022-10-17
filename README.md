@@ -18,7 +18,7 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## CFA 
 ![image](CFAExam.jpg)
 
-# CFA LevelI 
+# CFA Level I 
 ![image](CFAExamI.jpg)
 
 ## Ethics
