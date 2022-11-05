@@ -15,9 +15,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## CFA Level I exam
 ![image](CFASlide1.JPG)
 
-## CFA 
-![image](CFAExam.jpg)
-
 # CFA Level I 
 ![image](CFAExamI.png)
 
