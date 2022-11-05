@@ -18,10 +18,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 # CFA Level II
 ![image](CFALevel_II_Exam.jpg)
 
-# CFA Level I 
-![image](CFAExamI.png)
-##### https://www.cfainstitute.org/-/media/documents/support/programs/cfa/cfa-exam-results-since-1963.pdf
-
 ## Ethics
 ![image](Ethics.jpg)
 
