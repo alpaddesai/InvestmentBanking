@@ -1,22 +1,10 @@
-# Chartered Financial Analyst
+# Investment Banking 
 
-The project provides a high level overview of the academic knowledge associated with a CFA. 
+The project provides a high level overview of the academic knowledge associated with a Investment Banking . 
 All images are either custom by Alpa D Desai or a reference name is included. Most of the images are custom.
-
-## CFA
-![image](CFA.jpg)
-
-## Certificate
-![image](QuantitativeMethods.jpg)
 
 ## Launchpad
 ![image](image_Launchpad.png)
-
-## CFA Level I exam
-![image](CFASlide1.JPG)
-
-# CFA Level II
-![image](CFALevel_II_Exam.jpg)
 
 ## Ethics
 ![image](Ethics.jpg)
