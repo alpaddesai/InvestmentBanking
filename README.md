@@ -6,9 +6,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Launchpad
 ![image](image_Launchpad.png)
 
-## CFA
-![image](CFASlide1.JPG)
-
 ## Ethics
 ![image](Ethics.jpg)
 
