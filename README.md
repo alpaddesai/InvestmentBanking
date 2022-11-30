@@ -9,12 +9,6 @@ All images are either custom by Alpa D Desai or a reference name is included. Mo
 ## Ethics
 ![image](Ethics.jpg)
 
-## Tier II business school admission letter 
-![image](admissionletter.jpg)
-
-## Entrace exams
-![image](GMATImage5.jpg)
-
 ## Exam
 ![image](CFAExam.jpg)
 
